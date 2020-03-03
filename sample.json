@@ -1,0 +1,156 @@
+[
+  {
+    "address": "mpesa",
+    "body": "An MPESA transaction is currently underway. Please wait for this transaction to complete.",
+    "date": "1481706195000",
+    "errorCode": "0",
+    "locked": "0",
+    "read": "1",
+    "seen": "0",
+    "status": "-1",
+    "type": "1"
+  },
+  {
+    "address": "mpesa",
+    "body": "Failed. You do not have enough money in your M-PESA account to pay Ksh1,900.00 to Some Corporate Giant.Your M-PESA balance is Ksh1,493.00.",
+    "date": "1474471709000",
+    "errorCode": "0",
+    "locked": "0",
+    "read": "1",
+    "seen": "0",
+    "status": "-1",
+    "type": "1"
+  },
+  {
+    "address": "mpesa",
+    "body": "KCO5CNRXVY Confirmed.You have received Ksh10,000.00 from A. N. Other 0720000000 on 24/3/16 at 6:49 PM New M-PESA balance is Ksh23,039.00. Pay bills via M-PESA.",
+    "date": "1458834576000",
+    "errorCode": "0",
+    "locked": "0",
+    "read": "1",
+    "seen": "0",
+    "status": "-1",
+    "type": "1"
+  },
+  {
+    "address": "mpesa",
+    "body": "KCO9CH1Q6O Confirmed. Ksh10.00 sent to Other LTD  for account Acc1234 on 24/3/16 at 1:09 AM New M-PESA balance is Ksh4,952.00. Hakikisha! To stop any wrong transaction type 1 and send.",
+    "date": "1458770996000",
+    "errorCode": "0",
+    "locked": "0",
+    "read": "1",
+    "seen": "0",
+    "status": "-1",
+    "type": "1"
+  },
+  {
+    "address": "mpesa",
+    "body": "KDT9MJPNU4 Confirmed. Ksh1,450.00 paid to Nairobi Java House on 29/4/16 at 2:24 PM.New M-PESA balance is Ksh8,523.00. Hakikisha! To stop any wrong transaction type 1 and send.",
+    "date": "1461929045000",
+    "errorCode": "0",
+    "locked": "0",
+    "read": "1",
+    "seen": "0",
+    "status": "-1",
+    "type": "1"
+  },
+  {
+    "address": "mpesa",
+    "body": "KE36NSR1DA45 Confirmed.on 3/5/16 at 4:41 PMWithdraw Ksh50,000.00 from 001070 - No Agent New M-PESA balance is Ksh2,167.00. Dial *234*2*2# for MPESA mini-statement.",
+    "date": "1462282909000",
+    "errorCode": "0",
+    "locked": "0",
+    "read": "1",
+    "seen": "0",
+    "status": "-1",
+    "type": "1"
+  },
+  {
+    "address": "mpesa",
+    "body": "KFS241GML4 confirmed.You bought Ksh200.00 of airtime for 254700000000 on 28/6/16 at 9:30 PM.New  balance is Ksh1,423.00. Hakikisha! To stop any wrong transaction type 1 and send.",
+    "date": "1467138598000",
+    "errorCode": "0",
+    "locked": "0",
+    "read": "1",
+    "seen": "0",
+    "status": "-1",
+    "type": "1"
+  },
+  {
+    "address": "mpesa",
+    "body": "KH57E82CRL confirmed. Reversal of transaction KH54E7YIQP has been successfully reversed  on 5/8/16  at 5:57 PM and Ksh300.00 is credited to your M-PESA account. New M-PESA account balance is Ksh10,519.00.",
+    "date": "1470409648000",
+    "errorCode": "0",
+    "locked": "0",
+    "read": "1",
+    "seen": "0",
+    "status": "-1",
+    "type": "1"
+  },
+  {
+    "address": "mpesa",
+    "body": "KHC6G5C1B1 Confirmed. Ksh1,350.00 paid to Some Pizza Joint on 12/8/16 at 3:07 PM.New M-PESA balance is Ksh23,222.00. Hakikisha! To stop any wrong transaction type 1 and send.",
+    "date": "1471003623000",
+    "errorCode": "0",
+    "locked": "0",
+    "read": "1",
+    "seen": "0",
+    "status": "-1",
+    "type": "1"
+  },
+  {
+    "address": "mpesa",
+    "body": "KIF1PW4GJ5 Confirmed . Your M-Shwari Deposit Account balance is Ksh550.00  on 15/9/16 at 9:50 PM.",
+    "date": "1473965523000",
+    "errorCode": "0",
+    "locked": "0",
+    "read": "1",
+    "seen": "0",
+    "status": "-1",
+    "type": "1"
+  },
+  {
+    "address": "mpesa",
+    "body": "KJO83CTBU7 Confirmed. On 24/10/16 at 9:55 AM Give Ksh14,000.00 cash to Another Super Agency New M-PESA balance is Ksh25,066.00. Dial *234*1# to manage your bills.",
+    "date": "1477292171000",
+    "errorCode": "0",
+    "locked": "0",
+    "read": "1",
+    "seen": "0",
+    "status": "-1",
+    "type": "1"
+  },
+  {
+    "address": "mpesa",
+    "body": "KLF6IUULER Confirmed.Your M-PESA balance was  Ksh5,191.00  on 15/12/16 at 5:06 PM. Buy goods with M-PESA.",
+    "date": "1481810815000",
+    "errorCode": "0",
+    "locked": "0",
+    "read": "1",
+    "seen": "0",
+    "status": "-1",
+    "type": "1"
+  },
+  {
+    "address": "mpesa",
+    "body": "You have cancelled the transaction of Ksh1,500.00. Your M-PESA balance is Ksh4,863.28.",
+    "date": "1462002153000",
+    "errorCode": "0",
+    "locked": "0",
+    "read": "1",
+    "seen": "0",
+    "status": "-1",
+    "type": "1"
+  },
+  {
+    "address": "mpesa",
+    "body": "You have entered the wrong PIN. Please try again.",
+    "date": "1490263838000",
+    "errorCode": "0",
+    "locked": "0",
+    "read": "1",
+    "seen": "0",
+    "status": "-1",
+    "type": "1"
+  }
+]
